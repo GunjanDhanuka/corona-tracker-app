@@ -1,6 +1,8 @@
 # Corona Tracker App
 ----------------------
 
+[Live Site](https://gunjandhanuka.github.io/corona-tracker-app/)
+
 + This app was built using *React JS* and tracks the number of infected and recovered people from CoVid-19 and also the deaths caused by it.
 + The app has live *Line Chart* for the global stats and *Bar Charts* for each country.
 + The Chart has been made using *Chart js-2*.
