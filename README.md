@@ -13,3 +13,5 @@
 
 This was my first project on React and I learnt using the JavaScript Mastery Channel on YouTube. Huge thanks to him.
 + Inspired by:- [https://github.com/adrianhajdin/project_corona_tracker].
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/341ac8ad-33b1-4d20-9340-e347b229f066/deploy-status)](https://app.netlify.com/sites/covidtrackergd/deploys)
