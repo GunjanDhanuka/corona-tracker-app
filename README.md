@@ -16,3 +16,6 @@
 
 This was my first project on React and I learnt using the JavaScript Mastery Channel on YouTube. Huge thanks to him.
 + Inspired by:- [https://github.com/adrianhajdin/project_corona_tracker].
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
