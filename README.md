@@ -1,3 +1,6 @@
+![](https://socialify.git.ci/GunjanDhanuka/corona-tracker-app/image?description=1&descriptionEditable=Tracks%20and%20displays%20COVID%20stats%20from%20around%20the%20world.&font=Raleway&forks=1&language=1&owner=1&pattern=Plus&stargazers=1&theme=Light)
+
+
 # Corona Tracker App
 ----------------------
 
